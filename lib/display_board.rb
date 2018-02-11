@@ -4,3 +4,6 @@ board = [" "," "," "," "," "," "," "," "," "]
 
 # out the current state.
 
+def display_board(board)
+
+end
